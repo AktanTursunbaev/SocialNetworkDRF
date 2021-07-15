@@ -30,6 +30,8 @@ To edit configurations for this bot, open config.py located in api\_test_bot dir
 
 Before running this bot, make sure that you have api server running and you are located in api\_test_bot directory. To run this bot, just run main.py as a simple python file (`python3 main.py`)
 
+---
+
 ## API Documentation
 
 To view API documentation, run server and visit http://127.0.0.1:8000/docs/
